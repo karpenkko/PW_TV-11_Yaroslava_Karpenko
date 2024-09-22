@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mobile Calculator 1</string>
+    <string name="calculator_2">Calculator 2</string>
+    <string name="calculator_1">Calculator 1</string>
+    <string name="calculator_button_1">КАЛЬКУЛЯТОР 1</string>
+    <string name="calculator_button_2">КАЛЬКУЛЯТОР 2</string>
+    <string name="description_1">Розрахунок складу сухої та горючої маси палива та нижчої теплоти згоряння для робочої, сухої та горючої маси за складом компонентів палива.</string>
+    <string name="description_2">Перерахунок елементарного складу та нижчої теплоти згоряння мазуту на робочу масу для складу горючої маси мазуту, що задано параметрами.</string>
+    <string name="calculate">РОЗРАХУВАТИ</string>
+    <string name="carbon">Вуглець (Cp)</string>
+    <string name="hydrogen">Водень (Hp)</string>
+    <string name="sulfur">Сірка (Sp)</string>
+    <string name="nitrogen">Азот (Np)</string>
+    <string name="oxygen">Кисень (Op)</string>
+    <string name="moisture">Волога (W)</string>
+    <string name="ash">Зола (A)</string>
+
+    <string name="carbon_rate">Вуглець %</string>
+    <string name="hydrogen_rate">Водень %</string>
+    <string name="oxygen_rate">Кисень %</string>
+    <string name="sulfur_rate">Сірка %</string>
+    <string name="oil_heat">Нижча теплота згоряння горючої маси мазуту МДж/кг</string>
+    <string name="fuel_moisture">Вологість робочої маси палива %</string>
+    <string name="ash_rate">Зольність сухої маси %</string>
+    <string name="vanadium">Вміст ванадію мг/кг</string>
+    <string name="result">Result</string>
+</resources>
